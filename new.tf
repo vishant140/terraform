@@ -1,4 +1,3 @@
-  GNU nano 7.2                         new.tf                         Modified
 provider "aws" {
  
 } 
